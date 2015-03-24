@@ -13,6 +13,7 @@ $num_instances = 1
 $instance_name_prefix = "core"
 $update_channel = "alpha"
 $enable_serial_logging = false
+$expose_docker_tcp=2375
 $share_home = false
 $vm_gui = false
 $vm_memory = 1024
