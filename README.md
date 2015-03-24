@@ -1,4 +1,4 @@
-forked from https://github.com/coreos/coreos-vagrant/.
+Forked from https://github.com/coreos/coreos-vagrant/.  
 This repository setup [weave](https://github.com/zettio/weave) on CoreOS virtual machine and expose docker tcp port to host.
 
 # CoreOS Vagrant
