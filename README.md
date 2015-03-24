@@ -1,7 +1,11 @@
+forked from https://github.com/coreos/coreos-vagrant/.
+This repository setup [weave](https://github.com/zettio/weave) on CoreOS virtual machine and expose docker tcp port to host.
+
 # CoreOS Vagrant
 
 This repo provides a template Vagrantfile to create a CoreOS virtual machine using the VirtualBox software hypervisor.
 After setup is complete you will have a single CoreOS virtual machine running on your local machine.
+
 
 ## Streamlined setup
 
